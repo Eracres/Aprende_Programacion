@@ -4,10 +4,22 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
 
 ## Cursos:
 
-<a href="https://github.com/Eracres/React">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="./REACT/README.md">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60"/>
+        <br/>
+        <strong>Curso de React</strong>
+      </a>
+    </td>
+    <td align="center">
+      <a href="./Angular/README.md">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60"/>
+        <br/>
+        <strong>Curso de Angular</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/Eracres/Angular">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60"/>
-</a>
