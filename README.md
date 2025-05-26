@@ -6,15 +6,17 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
 
 <table>
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="120" height="120">
       <a href="./REACT/README.md">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60"/>
+        <br/>
         <strong>Curso de React</strong>
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="120" height="120">
       <a href="./Angular/README.md">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60"/><br/>
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60"/>
+        <br/>
         <strong>Curso de Angular</strong>
       </a>
     </td>
@@ -29,16 +31,19 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/><br/>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
+      <br/>
       <strong>HTML5</strong>
     </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/><br/>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
+      <br/>
       <strong>CSS3</strong>
     </td>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/><br/>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
+      <br/>
       <strong>JavaScript</strong>
     </td>
   </tr>
@@ -50,8 +55,9 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50"/><br/>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50"/>
+      <br/>
       <strong>PHP</strong>
     </td>
   </tr>
@@ -63,8 +69,9 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
 
 <table>
   <tr>
-    <td align="center" width="150">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/><br/>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50"/>
+      <br/>
       <strong>SQL</strong>
     </td>
   </tr>
@@ -76,23 +83,20 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
 
 <table>
   <tr>
-    <td align="center" width="150">
+    <td align="center" width="120" height="120">
       <a href="./REACT/README.md">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"/><br/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"/>
+        <br/>
         <strong>React</strong>
       </a>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="120" height="120">
       <a href="./Angular/README.md">
-        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50"/><br/>
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50"/>
+        <br/>
         <strong>Angular</strong>
       </a>
     </td>
   </tr>
 </table>
-
-  <tr>
-    <td align="center" width="120" height="120">
-      <a href="./REACT/README.md">
-        <img src="https://upload.wikimedia.org/wikipedia/com
 
