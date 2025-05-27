@@ -46,6 +46,6 @@ Empresas líderes que usan React en producción:
 
 ---
 
-## Módulo 2 [➡️](../Modulo_2:_Configuración_del_entorno_de_desarrollo/Modulo_2.md)
+## Módulo 2 [➡️](..//Modulo_2__Configuracion_del_entorno_de_desarrollo/Modulo_2.md)
 
 ## [🏠 Inicio](../README.md)
