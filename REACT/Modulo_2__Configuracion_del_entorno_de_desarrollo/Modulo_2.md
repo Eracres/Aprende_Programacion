@@ -114,6 +114,6 @@ Al empezar un nuevo proyecto, te recomiendo limpiar el código inicial que trae 
 
 ---
 
-## [⬅️](../Modulo_1__Introduccion_a_React/Modulo_1.md) Módulo 1 ... Módulo 3 [➡️](../Modulo_3:_JSX_Sintaxis_especial_de_React/Modulo_3.md)
+## [⬅️](../Modulo_1__Introduccion_a_React/Modulo_1.md) Módulo 1 ... Módulo 3 [➡️](..//Modulo_3__JSX_Sintaxis_especial_de_React/Modulo_3.md)
 
 ## [🏠 Inicio](../README.md)
