@@ -4,7 +4,7 @@
 
 
 
-1. [Introducción a React ](./Modulo_1:_Introduccion_a_React/Modulo_1.md)
+1. [Introducción a React ](./Modulo_1__Introduccion_a_React/Modulo_1.md)
 2. [Configuración del entorno de desarrollo ](./Modulo_2:_Configuración_del_entorno_de_desarrollo/Modulo_2.md) 
 3. [JSX: Sintaxis especial de React](./Modulo_3:_JSX_Sintaxis_especial_de_React/Modulo_3.md)  
 4. [Componentes (Funcionales y de Clase)](./Modulo_4:_Componentes_(Funcionales_y_de_Clase)/Modulo_4.md)
