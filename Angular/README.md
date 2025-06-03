@@ -1,5 +1,7 @@
 # 🧑‍🏫 Curso Completo de Angular – Desarrollo de Aplicaciones Web
 
+Este curso está diseñado para llevarte paso a paso desde cero hasta construir y desplegar aplicaciones web modernas usando Angular. A continuación encontrarás todos los módulos explicados en detalle, con ejemplos prácticos y ejercicios para afianzar lo aprendido.
+
 ## 🗂️ Temario General del Curso
 
 ### 1. [Introducción a Angular ](./Modulo_1_Introduccion_a_Angular/Modulo_1.md)
@@ -12,8 +14,6 @@
 ### 8. [Pipes y Personalizados ](./Modulo_8_Pipes_y_Personalizado/Modulo_8.md)
 ### 9. [Autenticación con JWT](./Modulo_9_Autenticación_con_JWT/Modulo_9.md)
 ### 10. [Despliegue de Aplicaciones Angular](./Modulo_10_Despliegue_de_Aplicaciones_Angular/Modulo_10.md)
-
-Este curso está diseñado para llevarte paso a paso desde cero hasta construir y desplegar aplicaciones web modernas usando Angular. A continuación encontrarás todos los módulos explicados en detalle, con ejemplos prácticos y ejercicios para afianzar lo aprendido.
 
 ---
 
