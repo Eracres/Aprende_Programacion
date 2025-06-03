@@ -2,12 +2,12 @@
 
 ## 📌 Índice
 
-### 📋 1. [Mostrar mensaje condicional con *ngIf](./Enunciados/Ejercicio_1.md)
-### 📋 2. [Mostrar lista con *ngFor](./Enunciados/Ejercicio_2.md)
-### 📋 3. [Mostrar sección según valor con *ngSwitch](./Enunciados/Ejercicio_3.md)
-### 📋 4. [Aplicar clase CSS con ngClass](./Enunciados/Ejercicio_4.md)
-### 📋 5. [Estilo dinámico con ngStyle](./Enunciados/Ejercicio_5.md)
-### 📋 6. [Combinar directivas en un componente](./Enunciados/Ejercicio_6.md)
+### 📋 Ejercicio 1. [Mostrar mensaje condicional con *ngIf](./Enunciados/Ejercicio_1.md)
+### 📋 Ejercicio 2. [Mostrar lista con *ngFor](./Enunciados/Ejercicio_2.md)
+### 📋 Ejercicio 3. [Mostrar sección según valor con *ngSwitch](./Enunciados/Ejercicio_3.md)
+### 📋 Ejercicio 4. [Aplicar clase CSS con ngClass](./Enunciados/Ejercicio_4.md)
+### 📋 Ejercicio 5. [Estilo dinámico con ngStyle](./Enunciados/Ejercicio_5.md)
+### 📋 Ejercicio 6. [Combinar directivas en un componente](./Enunciados/Ejercicio_6.md)
 
 ---
 
