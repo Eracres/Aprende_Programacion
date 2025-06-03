@@ -100,7 +100,7 @@ elementos = [
 
 ## 🔁 Navegación
 
-### 🧪 - [⬅️](./Ejemplo_5.md) Ejemplo 5 - Módulo 4 [➡️](../../../Modulo_4_Routing/Modulo_4.md)
+### 🧪 - [⬅️](./Ejemplo_5.md) Ejemplo 5 - 
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
