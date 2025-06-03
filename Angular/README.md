@@ -33,8 +33,3 @@ Este curso está diseñado para llevarte paso a paso desde cero hasta construir 
 #  [🔙](../README.md) Volver a cursos
 
 
-
----
-
-¡Felicidades! Has completado el curso completo de Angular 🎉
-
