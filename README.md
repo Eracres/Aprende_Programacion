@@ -45,7 +45,7 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
       <strong>Vue.js</strong>
     </td>
     <td align="center" width="120" height="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="50"/>
+      <img src="https://seeklogo.com/images/A/astro-logo-70F105BE69-seeklogo.com.png" alt="Astro" width="50"/>
       <br/>
       <strong>Astro</strong>
     </td>
