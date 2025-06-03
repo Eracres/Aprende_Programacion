@@ -63,6 +63,21 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
       <br/>
       <strong>PHP</strong>
     </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50"/>
+      <br/>
+      <strong>Node.js</strong>
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50"/>
+      <br/>
+      <strong>Python</strong>
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50"/>
+      <br/>
+      <strong>Java</strong>
+    </td>
   </tr>
 </table>
 
@@ -102,5 +117,6 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
     </td>
   </tr>
 </table>
+
 
 
