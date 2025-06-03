@@ -28,7 +28,7 @@ Aplicar estilos dinámicos combinando `ngClass` y `ngStyle` para representar vis
 
 ## 🔁 Navegación
 
-### 📋 - [⬅️ Ejercicio 8](./Ejercicio_8.md) - Ejercicio 10 [➡️](./Ejercicio_10.md)
+### 📋 - [⬅️](./Ejercicio_8.md) Ejercicio 8 - Ejercicio 10 [➡️](./Ejercicio_10.md)
 
 ### 📋 - [Volver a Ejercicios](../README.md)
 
