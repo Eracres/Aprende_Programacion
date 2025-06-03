@@ -81,7 +81,7 @@ También se demuestra cómo abrir un enlace en una nueva pestaña (`target="_bla
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 2 [⬅️](./Ejemplo_2.md) | Ejemplo 4 [➡️](./Ejemplo_4.md)
+### 🧪 - [⬅️](./Ejemplo_2.md) Ejemplo 2 - Ejemplo 4 [➡️](./Ejemplo_4.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
