@@ -1,4 +1,4 @@
-# 🧑‍🏫 Curso de React – Desarrollo de Aplicaciones Web con React
+# <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React Logo" width="30" style="vertical-align: middle;"/> Curso de React – Desarrollo de Aplicaciones Web con React
 
 ## 🗂️ Temario General del Curso
 
@@ -24,10 +24,6 @@
 ### Módulo 18 - [Deploy de la aplicación React](./Modulo_18:_Deploy_de_la_aplicación_React/Modulo_18.md)
 
 ---
-
-<a href="https://github.com/Eracres/Angular">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="60"/>
-</a>
 
 #  [🔙](../README.md) Volver a cursos
 
