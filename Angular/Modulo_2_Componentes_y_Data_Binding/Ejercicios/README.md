@@ -2,12 +2,12 @@
 
 ## 📌 Índice
 
-### 📋 1. [Componente editable con ngModel](./Enunciados/Ejercicio_1.md)
-### 📋 2. [Imagen dinámica](./Enunciados/Ejercicio_2.md)
-### 📋 3. [Botón con evento](./Enunciados/Ejercicio_3.md)
-### 📋 4. [Checkbox con mensaje](./Enunciados/Ejercicio_4.md)
-### 📋 5. [Formulario simple de contacto](./Enunciados/Ejercicio_5.md)
-### 📋 6. [Cambiar estilos dinámicamente](./Enunciados/Ejercicio_6.md)
+### 📋 Ejercicio 1. [Componente editable con ngModel](./Enunciados/Ejercicio_1.md)
+### 📋 Ejercicio 2. [Imagen dinámica](./Enunciados/Ejercicio_2.md)
+### 📋 Ejercicio 3. [Botón con evento](./Enunciados/Ejercicio_3.md)
+### 📋 Ejercicio 4. [Checkbox con mensaje](./Enunciados/Ejercicio_4.md)
+### 📋 Ejercicio 5. [Formulario simple de contacto](./Enunciados/Ejercicio_5.md)
+### 📋 Ejercicio 6. [Cambiar estilos dinámicamente](./Enunciados/Ejercicio_6.md)
 
 ---
 
