@@ -23,9 +23,31 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
       <strong>CSS3</strong>
     </td>
     <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="50"/>
+      <br/>
+      <strong>SASS</strong>
+    </td>
+    <td align="center" width="120" height="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
       <br/>
       <strong>JavaScript</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50"/>
+      <br/>
+      <strong>TypeScript</strong>
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="50"/>
+      <br/>
+      <strong>Vue.js</strong>
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://raw.githubusercontent.com/AstroPlatform/brand/main/logomark-light.svg" alt="Astro" width="50"/>
+      <br/>
+      <strong>Astro</strong>
     </td>
   </tr>
 </table>
@@ -80,4 +102,5 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
     </td>
   </tr>
 </table>
+
 
