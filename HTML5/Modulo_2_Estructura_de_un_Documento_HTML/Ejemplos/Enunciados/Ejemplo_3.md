@@ -3,8 +3,6 @@
 ## 🎯 Objetivo
 Aprender cómo enlazar correctamente archivos de hojas de estilo (CSS) y scripts de JavaScript dentro del documento HTML, específicamente en la sección `<head>`.
 
-## 📁 Ruta: /Modulo_2_Estructura_de_un_Documento_HTML/Ejemplos/Enunciados/Ejemplo_3.md
-
 ```html
 <!DOCTYPE html>
 <html lang="es">
