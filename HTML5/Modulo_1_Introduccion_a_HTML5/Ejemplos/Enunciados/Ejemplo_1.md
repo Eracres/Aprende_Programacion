@@ -79,7 +79,7 @@ Este ejemplo demuestra cómo usar distintos niveles de encabezados para organiza
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 0 [⬅️](./Ejemplo_0.md) | Ejemplo 2 [➡️](./Ejemplo_2.md)
+### 🧪 - [⬅️](./Ejemplo_0.md) Ejemplo 0 - Ejemplo 2 [➡️](./Ejemplo_2.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
