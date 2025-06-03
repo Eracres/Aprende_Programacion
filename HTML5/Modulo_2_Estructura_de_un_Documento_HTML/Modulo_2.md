@@ -88,7 +88,7 @@ La estructura está compuesta por tres grandes bloques:
 
 ## 🔁 Navegación
 
-### 📘 - [⬅️ Módulo 1](../Modulo_1_Introduccion_a_HTML5/Modulo_1.md) | Módulo 3 ➡️ (../Modulo_3_Etiquetas_de_Texto_y_Formato/Modulo_3.md)
+### 📘 - [⬅️](../Modulo_1_Introduccion_a_HTML5/Modulo_1.md) Módulo 1 - Módulo 3 [➡️](../Modulo_3_Etiquetas_de_Texto_y_Formato/Modulo_3.md)
 
 ### 🏠 - [Volver al Inicio](../README.md)
 
