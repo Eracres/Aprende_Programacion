@@ -100,7 +100,7 @@ elementos = [
 
 ## 🔁 Navegación
 
-### 🧪 - [⬅️](./Ejemplo_5.md) Ejemplo 5 - 
+### 🧪 - [⬅️](./Ejemplo_5.md) Ejemplo 5 - Ejemplo 7 [➡️](./Ejemplo_7.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
