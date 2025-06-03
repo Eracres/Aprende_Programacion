@@ -82,7 +82,7 @@ Este ejemplo muestra cómo se usan las etiquetas semánticas `<header>`, `<nav>`
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 1 [⬅️](./Ejemplo_1.md) | Ejemplo 3 [➡️](./Ejemplo_3.md)
+### 🧪 - [⬅️](./Ejemplo_1.md) Ejemplo 1 - Ejemplo 3 [➡️](./Ejemplo_3.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
