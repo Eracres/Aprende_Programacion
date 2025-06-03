@@ -2,8 +2,8 @@
 
 ## 📌 Índice
 
-### 🧪 0. [Instalación y creación del entorno Angular](./Enunciados/Ejemplo_0.md)  
-### 🧪 1. [Componente básico con interpolación](./Enunciados/Ejemplo_1.md)
+### 🧪 Ejemplo 0. [Instalación y creación del entorno Angular](./Enunciados/Ejemplo_0.md)  
+### 🧪 Ejemplo 1. [Componente básico con interpolación](./Enunciados/Ejemplo_1.md)
 
 ---
 
