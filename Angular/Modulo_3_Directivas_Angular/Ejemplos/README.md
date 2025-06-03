@@ -10,6 +10,7 @@
 ### 🧪 Ejemplo 6. [Combinando directivas](./Enunciados/Ejemplo_6.md)
 ### 🧪 Ejemplo 7. [Parámetros dinámicos en rutas](./Enunciados/Ejemplo_7.md)
 ### 🧪 Ejemplo 8. [Leer parámetros de ruta](./Enunciados/Ejemplo_8.md)
+### 🧪 Ejemplo 9. [Lazy loading de módulos](./Enunciados/Ejemplo_9.md)
 
 ---
 
