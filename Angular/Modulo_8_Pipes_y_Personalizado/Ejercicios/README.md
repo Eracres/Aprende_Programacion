@@ -2,12 +2,12 @@
 
 ## 📌 Índice
 
-### 📋 1. [Mostrar nombres en mayúscula con uppercase](./Enunciados/Ejercicio_1.md)
-### 📋 2. [Formatear precio como moneda local](./Enunciados/Ejercicio_2.md)
-### 📋 3. [Convertir fecha de nacimiento con date pipe](./Enunciados/Ejercicio_3.md)
-### 📋 4. [Crear un pipe para calcular porcentaje](./Enunciados/Ejercicio_4.md)
-### 📋 5. [Crear pipe para invertir y capitalizar texto](./Enunciados/Ejercicio_5.md)
-### 📋 6. [Aplicar pipe calcularEdad en lista de usuarios](./Enunciados/Ejercicio_6.md)
+### 📋 Ejercicio 1. [Mostrar nombres en mayúscula con uppercase](./Enunciados/Ejercicio_1.md)
+### 📋 Ejercicio 2. [Formatear precio como moneda local](./Enunciados/Ejercicio_2.md)
+### 📋 Ejercicio 3. [Convertir fecha de nacimiento con date pipe](./Enunciados/Ejercicio_3.md)
+### 📋 Ejercicio 4. [Crear un pipe para calcular porcentaje](./Enunciados/Ejercicio_4.md)
+### 📋 Ejercicio 5. [Crear pipe para invertir y capitalizar texto](./Enunciados/Ejercicio_5.md)
+### 📋 Ejercicio 6. [Aplicar pipe calcularEdad en lista de usuarios](./Enunciados/Ejercicio_6.md)
 
 ---
 
