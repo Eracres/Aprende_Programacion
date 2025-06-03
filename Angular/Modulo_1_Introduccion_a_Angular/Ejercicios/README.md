@@ -13,4 +13,4 @@
 
 ### 📘 - [Volver a Módulo 1](../Modulo_1.md)
 
-### 🏠 - [Inicio](../../../README.md)
+### 🏠 - [Inicio](../../README.md)
