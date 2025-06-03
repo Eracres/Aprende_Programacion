@@ -145,5 +145,26 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
   </tr>
 </table>
 
+---
+
+### 🛠️ Herramientas
+
+<table>
+  <tr>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50"/>
+      <br/>
+      <strong>Docker</strong>
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="50"/>
+      <br/>
+      <strong>Nginx</strong>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
