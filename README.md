@@ -14,8 +14,8 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
       <a href="./HTML5/README.md">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50"/>
         <br/>
-        <strong>HTML5</strong>
       </a>
+      <strong>HTML5</strong>
     </td>
     <td align="center" width="120" height="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
