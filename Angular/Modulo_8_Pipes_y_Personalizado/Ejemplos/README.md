@@ -2,12 +2,12 @@
 
 ## 📌 Índice
 
-### 🧪 1. [Uso básico de pipe uppercase](./Enunciados/Ejemplo_1.md)
-### 🧪 2. [Formatear fechas con date pipe](./Enunciados/Ejemplo_2.md)
-### 🧪 3. [Mostrar precios con currency pipe](./Enunciados/Ejemplo_3.md)
-### 🧪 4. [Pipe personalizado: descuento](./Enunciados/Ejemplo_4.md)
-### 🧪 5. [Pipe personalizado: mayusInvertido](./Enunciados/Ejemplo_5.md)
-### 🧪 6. [Pipe personalizado: calcularEdad](./Enunciados/Ejemplo_6.md)
+### 🧪 Ejemplo 1. [Uso básico de pipe uppercase](./Enunciados/Ejemplo_1.md)
+### 🧪 Ejemplo 2. [Formatear fechas con date pipe](./Enunciados/Ejemplo_2.md)
+### 🧪 Ejemplo 3. [Mostrar precios con currency pipe](./Enunciados/Ejemplo_3.md)
+### 🧪 Ejemplo 4. [Pipe personalizado: descuento](./Enunciados/Ejemplo_4.md)
+### 🧪 Ejemplo 5. [Pipe personalizado: mayusInvertido](./Enunciados/Ejemplo_5.md)
+### 🧪 Ejemplo 6. [Pipe personalizado: calcularEdad](./Enunciados/Ejemplo_6.md)
 
 ---
 
@@ -17,4 +17,4 @@
 
 ### 📘 - [Volver a Módulo 8](../Modulo_8.md)
 
-### 🏠 - [Inicio](../../../README.md)
+### 🏠 - [Inicio](../../README.md)
