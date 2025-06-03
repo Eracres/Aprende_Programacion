@@ -92,6 +92,16 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
       <br/>
       <strong>SQL</strong>
     </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50"/>
+      <br/>
+      <strong>PostgreSQL</strong>
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50"/>
+      <br/>
+      <strong>MongoDB</strong>
+    </td>
   </tr>
 </table>
 
@@ -114,6 +124,23 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
         <br/>
       </a>
       <strong>Angular</strong>
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50"/>
+      <br/>
+      <strong>Next.js</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50"/>
+      <br/>
+      <strong>Express.js</strong>
+    </td>
+    <td align="center" width="120" height="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50"/>
+      <br/>
+      <strong>Django</strong>
     </td>
   </tr>
 </table>
