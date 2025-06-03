@@ -2,8 +2,8 @@
 
 ## 📌 Índice
 
-### 📋 0. [Crear y ejecutar tu primer proyecto Angular](./Enunciados/Ejercicio_0.md)  
-### 📋 1. [Bienvenida con interpolación](./Enunciados/Ejercicio_1.md)
+### 📋 Ejercicio 0. [Crear y ejecutar tu primer proyecto Angular](./Enunciados/Ejercicio_0.md)  
+### 📋 Ejercicio 1. [Bienvenida con interpolación](./Enunciados/Ejercicio_1.md)
 
 ---
 
