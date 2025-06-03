@@ -68,15 +68,15 @@ En este repositorio vamos a iniciarte en el mundo de la programación, de una fo
       <a href="./REACT/README.md">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50"/>
         <br/>
-        <strong>React</strong>
       </a>
+      <strong>React</strong>
     </td>
     <td align="center" width="120" height="120">
       <a href="./Angular/README.md">
         <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50"/>
         <br/>
-        <strong>Angular</strong>
       </a>
+      <strong>Angular</strong>
     </td>
   </tr>
 </table>
