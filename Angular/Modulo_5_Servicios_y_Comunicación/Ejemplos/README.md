@@ -17,5 +17,5 @@
 
 ### 📘 - [Volver a Módulo 5](../Modulo_5.md)
 
-### 🏠 - [Inicio](../../../README.md)
+### 🏠 - [Inicio](../../README.md)
 
