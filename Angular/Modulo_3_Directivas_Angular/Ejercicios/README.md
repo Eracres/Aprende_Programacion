@@ -17,5 +17,5 @@
 
 ### 📘 - [Volver a Módulo 3](../Modulo_3.md)
 
-### 🏠 - [Inicio](../../../README.md)
+### 🏠 - [Inicio](../../README.md)
 
