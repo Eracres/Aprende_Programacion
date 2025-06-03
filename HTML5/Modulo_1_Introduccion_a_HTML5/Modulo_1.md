@@ -44,9 +44,9 @@ Un documento HTML5 siempre comienza con `<!DOCTYPE html>` para indicar el están
 ## 🧰 Herramientas recomendadas
 
 ### 1. Editor de código
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Sublime Text](https://www.sublimetext.com/)
-- [Atom](https://atom.io/) (ya no mantenido, pero aún usado)
+##### - [Visual Studio Code](https://code.visualstudio.com/)
+##### - [Sublime Text](https://www.sublimetext.com/)
+##### - [Atom](https://atom.io/) (ya no mantenido, pero aún usado)
 
 ### 2. Navegadores compatibles
 - Google Chrome
