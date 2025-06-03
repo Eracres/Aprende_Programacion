@@ -129,7 +129,7 @@ resolve(route: ActivatedRouteSnapshot): Observable<any> {
 
 ## 🔁 Navegación
 
-### 🧪 - [⬅️](./Ejemplo_9.md) Ejemplo 9 - Fin de ejemplos
+### 🧪 - [⬅️](./Ejemplo_9.md) Ejemplo 9 - Modulo 4 [➡️](../../../Modulo_4_Routing/Modulo_4.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
