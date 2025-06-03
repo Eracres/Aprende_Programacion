@@ -1,4 +1,5 @@
-# <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50"/>  Curso Completo de Angular – Desarrollo de Aplicaciones Web
+# <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" style="vertical-align: middle;"/> Curso Completo de Angular – Desarrollo de Aplicaciones Web
+
 
 Este curso está diseñado para llevarte paso a paso desde cero hasta construir y desplegar aplicaciones web modernas usando Angular. A continuación encontrarás todos los módulos explicados en detalle, con ejemplos prácticos y ejercicios para afianzar lo aprendido.
 
