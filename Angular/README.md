@@ -30,7 +30,7 @@ Este curso está diseñado para llevarte paso a paso desde cero hasta construir 
 
 ---
 
-# 🔙 [Volver a cursos](../README.md)
+#  [🔙](../README.md) Volver a cursos
 
 
 
