@@ -30,9 +30,8 @@ Este curso está diseñado para llevarte paso a paso desde cero hasta construir 
 
 ---
 
-<a href="https://github.com/Eracres/React">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="60"/>
-</a>
+# 🔙 [Volver al menú principal de cursos](../README.md)
+
 
 
 ---
