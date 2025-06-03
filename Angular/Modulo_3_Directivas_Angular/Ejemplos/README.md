@@ -9,6 +9,7 @@
 ### 🧪 Ejemplo 5. [ngStyle – Estilos dinámicos](./Enunciados/Ejemplo_5.md)
 ### 🧪 Ejemplo 6. [Combinando directivas](./Enunciados/Ejemplo_6.md)
 ### 🧪 Ejemplo 7. [Parámetros dinámicos en rutas](./Enunciados/Ejemplo_7.md)
+### 🧪 Ejemplo 8. [Leer parámetros de ruta](./Enunciados/Ejemplo_8.md)
 
 ---
 
