@@ -1,4 +1,4 @@
-# 🧑‍🏫 Curso Completo de Angular – Desarrollo de Aplicaciones Web
+# ![Angular](https://angular.io/assets/images/logos/angular/angular.svg) Curso Completo de Angular – Desarrollo de Aplicaciones Web
 
 Este curso está diseñado para llevarte paso a paso desde cero hasta construir y desplegar aplicaciones web modernas usando Angular. A continuación encontrarás todos los módulos explicados en detalle, con ejemplos prácticos y ejercicios para afianzar lo aprendido.
 
