@@ -3,8 +3,6 @@
 ## 🎯 Objetivo
 Aprender a usar etiquetas de énfasis como `<strong>`, `<em>`, `<b>` y `<i>` para resaltar contenido en una página HTML.
 
-## 📁 Ruta: ejemplos/Modulo_3/Ejemplo_3.html
-
 ```html
 <!DOCTYPE html>
 <html lang="es">
