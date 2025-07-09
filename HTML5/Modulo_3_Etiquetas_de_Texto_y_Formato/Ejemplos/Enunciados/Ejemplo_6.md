@@ -3,8 +3,6 @@
 ## 🎯 Objetivo
 Aprender a utilizar las etiquetas `<pre>` y `<code>` combinadas para mostrar bloques de código con formato preservado, útil para ejemplos técnicos o documentación.
 
-## 📁 Ruta: ejemplos/Modulo_3/Ejemplo_6.html
-
 ```html
 <!DOCTYPE html>
 <html lang="es">
