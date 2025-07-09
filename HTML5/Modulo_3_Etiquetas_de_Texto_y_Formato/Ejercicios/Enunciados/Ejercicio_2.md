@@ -26,7 +26,7 @@ Practicar el uso de etiquetas básicas para estructurar texto con párrafos (`<p
 
 ## 🔁 Navegación
 
-### 📋 - Ejercicio 1 [⬅️](./Ejercicio_1.md) | Ejercicio 3 [➡️](./Ejercicio_3.md)
+### 📋 - [⬅️](./Ejercicio_1.md) Ejercicio 1 - Ejercicio 3 [➡️](./Ejercicio_3.md)
 
 ### 📋 - [Volver a Ejercicios](../README.md)
 
