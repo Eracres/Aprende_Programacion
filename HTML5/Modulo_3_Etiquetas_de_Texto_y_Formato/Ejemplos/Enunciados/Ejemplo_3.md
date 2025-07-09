@@ -60,7 +60,7 @@ Este ejemplo muestra las diferencias entre etiquetas de énfasis semánticas (`<
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 2 [⬅️](./Ejemplo_2.md) | Ejemplo 4 [➡️](./Ejemplo_4.md)
+### 🧪 - [⬅️](./Ejemplo_2.md) Ejemplo 2 - Ejemplo 4 [➡️](./Ejemplo_4.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
