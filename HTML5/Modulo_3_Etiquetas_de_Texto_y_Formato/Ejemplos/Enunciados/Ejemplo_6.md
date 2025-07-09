@@ -66,7 +66,7 @@ const saludo = (nombre) => {
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 5 [⬅️](./Ejemplo_5.md)
+### 🧪 - [⬅️](./Ejemplo_5.md) Ejemplo 5 
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
