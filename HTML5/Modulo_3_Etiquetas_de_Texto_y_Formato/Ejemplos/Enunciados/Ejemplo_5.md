@@ -63,7 +63,7 @@ function saludar() {
 
 ## 🔁 Navegación
 
-### 🧪 - [⬅️](./Ejemplo_4.md) Ejemplo 4 - 
+### 🧪 - [⬅️](./Ejemplo_4.md) Ejemplo 4 - Ejemplo 6 [➡️](./Ejemplo_6.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
