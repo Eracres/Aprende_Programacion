@@ -70,7 +70,7 @@ Este ejemplo enseña a utilizar correctamente las etiquetas de párrafo (`<p>`),
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 1 [⬅️](./Ejemplo_1.md) | Ejemplo 3 [➡️](./Ejemplo_3.md)
+### 🧪 -  [⬅️](./Ejemplo_1.md) Ejemplo 1 - Ejemplo 3 [➡️](./Ejemplo_3.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
