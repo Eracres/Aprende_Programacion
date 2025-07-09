@@ -71,7 +71,7 @@ Este ejemplo muestra cómo enriquecer un documento con significado usando etique
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 3 [⬅️](./Ejemplo_3.md) | Ejemplo 5 [➡️](./Ejemplo_5.md)
+### 🧪 - [⬅️](./Ejemplo_3.md) Ejemplo 3 - Ejemplo 5 [➡️](./Ejemplo_5.md)
 
 ### 🧪 - [Volver a Ejemplos](../README.md)
 
