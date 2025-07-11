@@ -26,7 +26,7 @@ Aplicar las etiquetas `<blockquote>`, `<abbr>` y `<dfn>` para enriquecer semánt
 
 ## 🔁 Navegación
 
-### 📋 - Ejercicio 3 [⬅️](./Ejercicio_3.md)
+### 📋 - Ejercicio 3 [⬅️](./Ejercicio_3.md) - Ejercicio 5 [➡️](./Ejercicio_5.md)
 
 ### 📋 - [Volver a Ejercicios](../README.md)
 
