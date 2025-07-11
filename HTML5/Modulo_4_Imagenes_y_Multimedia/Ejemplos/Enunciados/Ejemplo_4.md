@@ -51,7 +51,7 @@ Reproduce un video `.mp4` y carga subtítulos desde un archivo `.vtt`. Mejora la
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 3 [⬅️](./Ejemplo_3.md) | Ejemplo 5 [➡️](./Ejemplo_5.md)
+### 🧪 - [⬅️](./Ejemplo_3.md) Ejemplo 3 - Ejemplo 5 [➡️](./Ejemplo_5.md)
 ### 🧪 - [Volver a Ejemplos](../README.md)
 ### 📋 - [Ir a Ejercicios](../../Ejercicios/README.md)
 ### 📘 - [Volver a Módulo 4](../../Modulo_4.md)
