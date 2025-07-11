@@ -27,7 +27,7 @@ Practicar el uso de etiquetas semánticas como `<strong>`, `<em>`, `<mark>`, `<s
 
 ## 🔁 Navegación
 
-### 📋 - Ejercicio 2 [⬅️](./Ejercicio_2.md)
+### 📋 - Ejercicio 2 [⬅️](./Ejercicio_2.md) - Ejercicio 4 [➡️](./Ejercicio_4.md)
 
 ### 📋 - [Volver a Ejercicios](../README.md)
 
