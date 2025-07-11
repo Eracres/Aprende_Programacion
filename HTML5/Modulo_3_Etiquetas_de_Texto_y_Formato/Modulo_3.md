@@ -66,6 +66,6 @@ console.log(x + y);</code></pre>
 
 ## 🔁 Navegación
 
-### 📘 - Módulo 2 [⬅️](../Modulo_2_Estructura_de_un_Documento_HTML/Modulo_2.md) | Módulo 4 [➡️](../Modulo_4_Listas_y_Tablas/Modulo_4.md)
+### 📘 - [⬅️](../Modulo_2_Estructura_de_un_Documento_HTML/Modulo_2.md) Módulo 2 - Módulo 4 [➡️](../Modulo_4_Listas_y_Tablas/Modulo_4.md)
 
 ### 🏠 - [Volver al Inicio](../README.md)
