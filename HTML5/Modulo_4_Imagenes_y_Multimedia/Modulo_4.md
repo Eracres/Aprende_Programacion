@@ -85,6 +85,6 @@ La etiqueta `<audio>` permite reproducir sonidos.
 
 ## 🔁 Navegación
 
-### 📘 - Módulo 3 [⬅️](../Modulo_3_Estructura_y_Semantica/Modulo_3.md) | Módulo 5 [➡️](../Modulo_5_Enlaces_y_Navegacion/Modulo_5.md)
+### 📘 - Módulo 3 [⬅️](../Modulo_3_Etiquetas_de_Texto_y_Formato/Modulo_3.md) - Módulo 5 [➡️]-(../Modulo_5_Enlaces_y_Navegacion/Modulo_5.md)
 
 ### 🏠 - [Volver al Inicio](../README.md)
