@@ -23,7 +23,7 @@ Practicar la incorporación de un video local en una página web usando HTML5.
 
 ## 🔁 Navegación
 
-### 📋 - Ejercicio 2 [⬅️](./Ejercicio_2.md) | Ejercicio 4 [➡️](./Ejercicio_4.md)  
+### 📋 - [⬅️](./Ejercicio_2.md) Ejercicio 2 - Ejercicio 4 [➡️](./Ejercicio_4.md)  
 ### 📋 - [Volver a Ejercicios](../README.md)  
 ### 🧪 - [Ir a Ejemplos](../../Ejemplos/README.md)  
 ### 📘 - [Volver a Módulo 4](../../Modulo_4.md)  
