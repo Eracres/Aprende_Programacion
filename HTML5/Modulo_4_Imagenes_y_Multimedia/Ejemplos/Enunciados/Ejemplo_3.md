@@ -50,7 +50,7 @@ Este código inserta un archivo de audio `.mp3` con controles básicos (play, pa
 
 ## 🔁 Navegación
 
-### 🧪 - Ejemplo 2 [⬅️](./Ejemplo_2.md) | Ejemplo 4 [➡️](./Ejemplo_4.md)
+### 🧪 - [⬅️](./Ejemplo_2.md) Ejemplo 2 - Ejemplo 4 [➡️](./Ejemplo_4.md)
 ### 🧪 - [Volver a Ejemplos](../README.md)
 ### 📋 - [Ir a Ejercicios](../../Ejercicios/README.md)
 ### 📘 - [Volver a Módulo 4](../../Modulo_4.md)
